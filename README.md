@@ -33,10 +33,6 @@
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=betomaluje&layout=compact)](https://github.com/betomaluje/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=betomaluje&repo=Mi-Band)](https://github.com/betomaluje/Mi-Band)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=betomaluje&repo=el-llamo-3d)](https://github.com/betomaluje/el-llamo-3d)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=betomaluje&repo=Kyky)](https://github.com/betomaluje/Kyky)
-
 [website]: https://betomaluje.github.io/game-demos/
 [itchio]: https://betomaluje.itch.io/
 [linkedin]: https://www.linkedin.com/in/albertomalujev
