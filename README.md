@@ -21,6 +21,8 @@
 <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
 
+<br />
+
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
