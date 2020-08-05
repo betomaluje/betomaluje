@@ -26,6 +26,9 @@
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reduce your boilerplate code using this Android MVP approach](https://medium.com/@albertomaluje/a-different-android-mvp-approach-b151ffbfe1e7?source=rss-3819bbf5ab01------2)
+- [The best advice I can give to you: be resilient](https://medium.com/@albertomaluje/the-best-advice-i-can-give-to-you-be-resilient-8058baeae2bb?source=rss-3819bbf5ab01------2)
+- [Android Wear Development](https://medium.com/@albertomaluje/openvu-is-my-first-android-app-for-wear-devices-239cf15f9a3c?source=rss-3819bbf5ab01------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
