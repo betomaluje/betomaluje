@@ -1,11 +1,7 @@
 ### Hi there, I'm Alberto - aka [Beto] 👋
 
-## I'm a Android Developer and Techy Enthusiast!
-- 🔭 I’m currently working as a Mobile developer (as a Consultant) at Netlight!
-- 🌱 I’m currently learning Game Development [website]
+- 🌱 Founder of Berserk Pixel Game Studio [website]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Release at least one of my game projects 🤣
-- ⚡ Fun fact: I love to paint, build robotics with Arduinos and Raspebrry Pis and play guitar / drums
 
 ### Connect with me:
 
@@ -37,7 +33,7 @@
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=betomaluje&layout=compact)](https://github.com/betomaluje/github-readme-stats)
 
-[website]: https://betomaluje.github.io/game-demos/
+[website]: https://berserkpixel.studio
 [itchio]: https://betomaluje.itch.io/
 [linkedin]: https://www.linkedin.com/in/albertomalujev
 [instagram]: https://www.instagram.com/betomaluje
