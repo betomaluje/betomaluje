@@ -36,4 +36,3 @@
 [website]: https://berserkpixel.studio
 [itchio]: https://betomaluje.itch.io/
 [linkedin]: https://www.linkedin.com/in/albertomalujev
-[instagram]: https://www.instagram.com/betomaluje
